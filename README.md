@@ -27,7 +27,9 @@ Build
 ----------------------
 1.  Clone the source:
 
-        git clone https://github.com/zcoinofficial/zcoin
+        git clone https://github.com/noxia/LCH
+		
+		...to be continued
 
 2.  Build Zcoin-core:
 
